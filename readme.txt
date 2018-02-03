@@ -3,3 +3,4 @@ Git is a distributd version control system.
 Git is free software
 git is good
 git is Amazing
+Git has a mutable index called stage.
